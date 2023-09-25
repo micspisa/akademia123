@@ -6,7 +6,7 @@ Nejaky obycajny text, alebo **hruby text**, alebo *sikmy text*
 a este daco nech tam je
 
 
-
+aj tu z AWS daco napisem
 
 
 

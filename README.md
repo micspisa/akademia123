@@ -12,7 +12,7 @@ este daco link wall https://docs.google.com/document/d/1upgggrE0Kr6_jweMtrUyXJnw
 doplnujem z webu
 
 
-
+z AWS tiez daco vyskusam
 
 
 
