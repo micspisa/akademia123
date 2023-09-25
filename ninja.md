@@ -8,4 +8,9 @@ a este daco nech tam je
 
 + tiez este z webu nieco
 
+
 - z konzoly
+
+
+**a este z webu**
+
