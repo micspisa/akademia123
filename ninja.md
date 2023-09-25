@@ -25,4 +25,15 @@ a este daco nech tam je
 
 
 
+
 a aj toto tu si nahram z firemneho
+
++ tiez este z webu nieco
+
+
+- z konzoly
+
+
+**a este z webu**
+
+
